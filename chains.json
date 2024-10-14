@@ -1,12 +1,4 @@
 {
-  "mainnet": {
-    "name": "mainnet",
-    "chainID": "phoenix-1",
-    "lcd": "https://lcd-terra.tfl.foundation",
-    "api": "https://phoenix-api.terra.dev",
-    "hive": "https://phoenix-hive.terra.dev/graphql",
-    "walletconnectID": 1
-  },
   "classic": {
     "name": "classic",
     "chainID": "columbus-5",
@@ -17,10 +9,9 @@
   },
   "testnet": {
     "name": "testnet",
-    "chainID": "pisco-1",
-    "lcd": "https://pisco-lcd.terra.dev",
-    "api": "https://pisco-api.terra.dev",
-    "hive": "https://pisco-hive.terra.dev/graphql",
+    "chainID": "rebel-2",
+    "lcd": "https://lcd.luncblaze.com",
+    "api": null,
     "walletconnectID": 0
   },
   "localterra": {
